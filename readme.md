@@ -1,6 +1,6 @@
 # Привет! Я Geriot
 
-![Avatar]("Z:\test2\TestSideGitPages\ahri-550x309.png")
+![Avatar](https://imgur.com/a/Ai7KBsT)
 
 ## Кратко о мене
 
