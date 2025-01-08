@@ -1,0 +1,26 @@
+# Привет! Я Geriot
+
+![Avatar]("Z:\test2\TestSideGitPages\ahri-550x309.png")
+
+## Кратко о мене
+
+Я здесь, что бы разобраться как работает git и github.
+Являюсь активным юзером stable duffision.
+
+## Навыки
+
+1. 1. Знаю Pascal
+2. 2. Знаю Labview
+3. 3. Хорошо пользуюсь Altium designer
+4. 4. Изучаю Java
+5. 5. Копаюсь переодически в коде на Python
+
+## Проекты
+
+- К сожелению не могу распостранять данную информацию
+
+## Связь
+
+[VK](https://vk.com/idgeriot)
+
+[GitHub](https://github.com/geriot-v)
